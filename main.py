@@ -1,4 +1,4 @@
-from cls_strt import *
+from add_rm_startup import *
 
 def main():
 
